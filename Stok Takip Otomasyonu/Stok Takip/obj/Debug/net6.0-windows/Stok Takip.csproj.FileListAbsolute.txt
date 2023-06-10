@@ -1,0 +1,87 @@
+C:\Users\sinan\Desktop\PROJELER\stokk\Stok Takip\Stok Takip\bin\Debug\net6.0-windows\Stok Takip.exe
+C:\Users\sinan\Desktop\PROJELER\stokk\Stok Takip\Stok Takip\bin\Debug\net6.0-windows\Stok Takip.deps.json
+C:\Users\sinan\Desktop\PROJELER\stokk\Stok Takip\Stok Takip\bin\Debug\net6.0-windows\Stok Takip.runtimeconfig.json
+C:\Users\sinan\Desktop\PROJELER\stokk\Stok Takip\Stok Takip\bin\Debug\net6.0-windows\Stok Takip.dll
+C:\Users\sinan\Desktop\PROJELER\stokk\Stok Takip\Stok Takip\bin\Debug\net6.0-windows\Stok Takip.pdb
+C:\Users\sinan\Desktop\PROJELER\stokk\Stok Takip\Stok Takip\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\sinan\Desktop\PROJELER\stokk\Stok Takip\Stok Takip\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\sinan\Desktop\PROJELER\stokk\Stok Takip\Stok Takip\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\sinan\Desktop\PROJELER\stokk\Stok Takip\Stok Takip\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\sinan\Desktop\PROJELER\stokk\Stok Takip\Stok Takip\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sinan\Desktop\PROJELER\stokk\Stok Takip\Stok Takip\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sinan\Desktop\PROJELER\stokk\Stok Takip\Stok Takip\obj\Debug\net6.0-windows\Stok Takip.csproj.AssemblyReference.cache
+C:\Users\sinan\Desktop\PROJELER\stokk\Stok Takip\Stok Takip\obj\Debug\net6.0-windows\Stok_Takip.formsatis.resources
+C:\Users\sinan\Desktop\PROJELER\stokk\Stok Takip\Stok Takip\obj\Debug\net6.0-windows\Stok_Takip.kullanıcıpaneli.resources
+C:\Users\sinan\Desktop\PROJELER\stokk\Stok Takip\Stok Takip\obj\Debug\net6.0-windows\Stok Takip.csproj.GenerateResource.cache
+C:\Users\sinan\Desktop\PROJELER\stokk\Stok Takip\Stok Takip\obj\Debug\net6.0-windows\Stok Takip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sinan\Desktop\PROJELER\stokk\Stok Takip\Stok Takip\obj\Debug\net6.0-windows\Stok Takip.AssemblyInfoInputs.cache
+C:\Users\sinan\Desktop\PROJELER\stokk\Stok Takip\Stok Takip\obj\Debug\net6.0-windows\Stok Takip.AssemblyInfo.cs
+C:\Users\sinan\Desktop\PROJELER\stokk\Stok Takip\Stok Takip\obj\Debug\net6.0-windows\Stok Takip.csproj.CoreCompileInputs.cache
+C:\Users\sinan\Desktop\PROJELER\stokk\Stok Takip\Stok Takip\obj\Debug\net6.0-windows\Stok Takip.csproj.CopyComplete
+C:\Users\sinan\Desktop\PROJELER\stokk\Stok Takip\Stok Takip\obj\Debug\net6.0-windows\Stok Takip.dll
+C:\Users\sinan\Desktop\PROJELER\stokk\Stok Takip\Stok Takip\obj\Debug\net6.0-windows\refint\Stok Takip.dll
+C:\Users\sinan\Desktop\PROJELER\stokk\Stok Takip\Stok Takip\obj\Debug\net6.0-windows\Stok Takip.pdb
+C:\Users\sinan\Desktop\PROJELER\stokk\Stok Takip\Stok Takip\obj\Debug\net6.0-windows\Stok Takip.genruntimeconfig.cache
+C:\Users\sinan\Desktop\PROJELER\stokk\Stok Takip\Stok Takip\obj\Debug\net6.0-windows\ref\Stok Takip.dll
+C:\Users\sinan\Desktop\PROJELER\stokk\Stok Takip\Stok Takip\obj\Debug\net6.0-windows\Stok_Takip.girişekranı.resources
+C:\Users\sinan\Desktop\PROJELER\stokk\Stok Takip\Stok Takip\obj\Debug\net6.0-windows\Stok_Takip.stokkayit.resources
+C:\Users\sinan\Desktop\PROJELER\stokk\Stok Takip\Stok Takip\obj\Debug\net6.0-windows\Stok_Takip.stoklist.resources
+C:\Users\sinan\Desktop\PROJELER\stokk\Stok Takip\Stok Takip\obj\Debug\net6.0-windows\Stok_Takip.stokhareket.resources
+C:\Users\sinan\Desktop\WEB PROJESİ\Stok Takip\bin\Debug\net6.0-windows\Stok Takip.exe
+C:\Users\sinan\Desktop\WEB PROJESİ\Stok Takip\bin\Debug\net6.0-windows\Stok Takip.deps.json
+C:\Users\sinan\Desktop\WEB PROJESİ\Stok Takip\bin\Debug\net6.0-windows\Stok Takip.runtimeconfig.json
+C:\Users\sinan\Desktop\WEB PROJESİ\Stok Takip\bin\Debug\net6.0-windows\Stok Takip.dll
+C:\Users\sinan\Desktop\WEB PROJESİ\Stok Takip\bin\Debug\net6.0-windows\Stok Takip.pdb
+C:\Users\sinan\Desktop\WEB PROJESİ\Stok Takip\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\sinan\Desktop\WEB PROJESİ\Stok Takip\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\sinan\Desktop\WEB PROJESİ\Stok Takip\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\sinan\Desktop\WEB PROJESİ\Stok Takip\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\sinan\Desktop\WEB PROJESİ\Stok Takip\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sinan\Desktop\WEB PROJESİ\Stok Takip\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sinan\Desktop\WEB PROJESİ\Stok Takip\obj\Debug\net6.0-windows\Stok Takip.csproj.AssemblyReference.cache
+C:\Users\sinan\Desktop\WEB PROJESİ\Stok Takip\obj\Debug\net6.0-windows\Stok_Takip.girişekranı.resources
+C:\Users\sinan\Desktop\WEB PROJESİ\Stok Takip\obj\Debug\net6.0-windows\Stok_Takip.kullanıcıpaneli.resources
+C:\Users\sinan\Desktop\WEB PROJESİ\Stok Takip\obj\Debug\net6.0-windows\Stok_Takip.stokhareket.resources
+C:\Users\sinan\Desktop\WEB PROJESİ\Stok Takip\obj\Debug\net6.0-windows\Stok_Takip.stokkayit.resources
+C:\Users\sinan\Desktop\WEB PROJESİ\Stok Takip\obj\Debug\net6.0-windows\Stok_Takip.stoklist.resources
+C:\Users\sinan\Desktop\WEB PROJESİ\Stok Takip\obj\Debug\net6.0-windows\Stok Takip.csproj.GenerateResource.cache
+C:\Users\sinan\Desktop\WEB PROJESİ\Stok Takip\obj\Debug\net6.0-windows\Stok Takip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sinan\Desktop\WEB PROJESİ\Stok Takip\obj\Debug\net6.0-windows\Stok Takip.AssemblyInfoInputs.cache
+C:\Users\sinan\Desktop\WEB PROJESİ\Stok Takip\obj\Debug\net6.0-windows\Stok Takip.AssemblyInfo.cs
+C:\Users\sinan\Desktop\WEB PROJESİ\Stok Takip\obj\Debug\net6.0-windows\Stok Takip.csproj.CoreCompileInputs.cache
+C:\Users\sinan\Desktop\WEB PROJESİ\Stok Takip\obj\Debug\net6.0-windows\Stok Takip.csproj.CopyComplete
+C:\Users\sinan\Desktop\WEB PROJESİ\Stok Takip\obj\Debug\net6.0-windows\Stok Takip.dll
+C:\Users\sinan\Desktop\WEB PROJESİ\Stok Takip\obj\Debug\net6.0-windows\refint\Stok Takip.dll
+C:\Users\sinan\Desktop\WEB PROJESİ\Stok Takip\obj\Debug\net6.0-windows\Stok Takip.pdb
+C:\Users\sinan\Desktop\WEB PROJESİ\Stok Takip\obj\Debug\net6.0-windows\Stok Takip.genruntimeconfig.cache
+C:\Users\sinan\Desktop\WEB PROJESİ\Stok Takip\obj\Debug\net6.0-windows\ref\Stok Takip.dll
+C:\Users\sinan\Desktop\WEB PROJESİ\Stok Takip\obj\Debug\net6.0-windows\Stok_Takip.formsatiscs.resources
+C:\Users\sinan\Desktop\Stok Takip\Stok Takip\bin\Debug\net6.0-windows\Stok Takip.exe
+C:\Users\sinan\Desktop\Stok Takip\Stok Takip\bin\Debug\net6.0-windows\Stok Takip.deps.json
+C:\Users\sinan\Desktop\Stok Takip\Stok Takip\bin\Debug\net6.0-windows\Stok Takip.runtimeconfig.json
+C:\Users\sinan\Desktop\Stok Takip\Stok Takip\bin\Debug\net6.0-windows\Stok Takip.dll
+C:\Users\sinan\Desktop\Stok Takip\Stok Takip\bin\Debug\net6.0-windows\Stok Takip.pdb
+C:\Users\sinan\Desktop\Stok Takip\Stok Takip\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\sinan\Desktop\Stok Takip\Stok Takip\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\sinan\Desktop\Stok Takip\Stok Takip\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\sinan\Desktop\Stok Takip\Stok Takip\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\sinan\Desktop\Stok Takip\Stok Takip\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sinan\Desktop\Stok Takip\Stok Takip\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sinan\Desktop\Stok Takip\Stok Takip\obj\Debug\net6.0-windows\Stok Takip.csproj.AssemblyReference.cache
+C:\Users\sinan\Desktop\Stok Takip\Stok Takip\obj\Debug\net6.0-windows\Stok_Takip.formsatiscs.resources
+C:\Users\sinan\Desktop\Stok Takip\Stok Takip\obj\Debug\net6.0-windows\Stok_Takip.girişekranı.resources
+C:\Users\sinan\Desktop\Stok Takip\Stok Takip\obj\Debug\net6.0-windows\Stok_Takip.kullanıcıpaneli.resources
+C:\Users\sinan\Desktop\Stok Takip\Stok Takip\obj\Debug\net6.0-windows\Stok_Takip.stokhareket.resources
+C:\Users\sinan\Desktop\Stok Takip\Stok Takip\obj\Debug\net6.0-windows\Stok_Takip.stokkayit.resources
+C:\Users\sinan\Desktop\Stok Takip\Stok Takip\obj\Debug\net6.0-windows\Stok_Takip.stoklist.resources
+C:\Users\sinan\Desktop\Stok Takip\Stok Takip\obj\Debug\net6.0-windows\Stok Takip.csproj.GenerateResource.cache
+C:\Users\sinan\Desktop\Stok Takip\Stok Takip\obj\Debug\net6.0-windows\Stok Takip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sinan\Desktop\Stok Takip\Stok Takip\obj\Debug\net6.0-windows\Stok Takip.AssemblyInfoInputs.cache
+C:\Users\sinan\Desktop\Stok Takip\Stok Takip\obj\Debug\net6.0-windows\Stok Takip.AssemblyInfo.cs
+C:\Users\sinan\Desktop\Stok Takip\Stok Takip\obj\Debug\net6.0-windows\Stok Takip.csproj.CoreCompileInputs.cache
+C:\Users\sinan\Desktop\Stok Takip\Stok Takip\obj\Debug\net6.0-windows\Stok Takip.csproj.CopyComplete
+C:\Users\sinan\Desktop\Stok Takip\Stok Takip\obj\Debug\net6.0-windows\Stok Takip.dll
+C:\Users\sinan\Desktop\Stok Takip\Stok Takip\obj\Debug\net6.0-windows\refint\Stok Takip.dll
+C:\Users\sinan\Desktop\Stok Takip\Stok Takip\obj\Debug\net6.0-windows\Stok Takip.pdb
+C:\Users\sinan\Desktop\Stok Takip\Stok Takip\obj\Debug\net6.0-windows\Stok Takip.genruntimeconfig.cache
+C:\Users\sinan\Desktop\Stok Takip\Stok Takip\obj\Debug\net6.0-windows\ref\Stok Takip.dll
